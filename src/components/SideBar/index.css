@@ -1,0 +1,23 @@
+.book-shelves-heading {
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #334155;
+  font-size: 20px;
+}
+
+.bookshelves-sidebar-button {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 500;
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+  outline: none;
+  margin-bottom: 15px;
+  padding-left: 0px;
+}
+
+.active {
+  color: #0284c7;
+}

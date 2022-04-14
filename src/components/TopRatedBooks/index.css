@@ -1,0 +1,30 @@
+.item-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.top-cover-pic {
+  width: 260px;
+  height: 270px;
+  border-radius: 10px;
+}
+
+.title {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+.author-name {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #475569;
+  margin-top: 0px;
+}
