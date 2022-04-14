@@ -37,8 +37,6 @@ class Login extends Component {
     }
   }
 
-  // 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
-
   onUsername = event => {
     this.setState({username: event.target.value})
   }
